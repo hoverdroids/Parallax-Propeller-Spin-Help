@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="116" MadCap:lastWidth="895">
+    <head>
+    </head>
+    <body>
+        <MadCap:topicToolbarProxy style="mc-topic-toolbar-items: ;" MadCap:conditions="PropellerHelpConditionTags.MobileOnly" />
+        <MadCap:breadcrumbsProxy />
+        <MadCap:bodyProxy />
+        <div class="Col2">
+            <div class="MasterFoot">
+                <p><a href="../../HomeTopics/HomePage.htm">Go to Welcome page</a>
+                </p>
+                <p>&#160;</p>
+                <p MadCap:conditions="PropellerHelpConditionTags.MobileOnly"><a href="http://www.parallax.com/portals/0/help/P8X32A/QnaWeb" title="Go to Classic Web View system home page" alt="Go to Classic Web View system home page" MadCap:conditions="PropellerHelpConditionTags.MobileOnly" target="_blank">Switch to Classic View homepage</a>
+                </p>
+                <p>&#160;</p>
+                <p MadCap:conditions="PropellerHelpConditionTags.ClassicOnly"><a href="http://www.parallax.com/portals/0/help/P8X32A/QnaMobile" title="Go to Mobile View system main menu" alt="Go to Mobile View system main menu" MadCap:conditions="PropellerHelpConditionTags.ClassicOnly" target="_blank">Switch to Mobile View homepage</a>
+                </p>
+            </div>
+        </div>
+        <div class="Col2">
+            <div class="MasterFoot">
+                <MadCap:snippetBlock src="../Snippets/HelpVersion.flsnp" />
+            </div>
+        </div>
+        <script type="text/javascript">
+
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-285614-1']);
+			_gaq.push(['_trackPageview']);
+
+			(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+
+		</script>
+    </body>
+</html>
